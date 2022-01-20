@@ -12,7 +12,7 @@ Nome: Emmily Boesing
 #include <ctype.h>
 #include <time.h>
 #define linha 50
-#define coluna 10
+#define coluna 50
 
 void desenho_forca(int erro){
     switch(erro){
